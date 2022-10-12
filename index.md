@@ -60,13 +60,13 @@ ML4MI invites submissions that,
 * Propose new ML-driven computational software for medical imaging applications
 * Describe perspectives to generate discussions about recent trends and major challenges in machine learning for medical imaging applications
 
-**Submission link**: <a href="https://openreview.net/group?id=NeurIPS.cc%2F2022%2FWorkshop%2FLMRL"> Link to OpenReview</a>
+**Submission link [TBA]**: <a href="https://openreview.net/group?id=NeurIPS.cc%2F2022%2FWorkshop%2FLMRL"> Link to OpenReview</a>
 
 **Format**: Anonymized ACML 2022 main conference format. 2-4 page papers, excluding references and supplementary material (optional). The submission should be contained without the supplementary.
 
-**Submission deadline**: Sep 30, 2022 (any time zone)
+**Submission deadline**: Nov 5, 2022 (any time zone)
 
-**Accept/Reject notification**: Oct 20, 2022
+**Accept/Reject notification**: Nov 20, 2022
 
 <hr/>
 
