@@ -1,13 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-address: "https://pushpakpati.github.io/acml2022-ml4mi/"
-country: "ind"
-language: "en"
 humandate: "Dec 12, 2022 9:00 am - 5:00 pm Europe/Zurich time (UTC+2)"
-[//]: # (humantime: "9:00 am - 5:00 pm &#40;CET time zone&#41;")
 startdate: 2022-12-12
 enddate: 2022-12-12
-eventbrite: false 
+venue: "ML4MI 2022"
 
 [//]: # (locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.)
 [//]: # (  - venue: "Online" )
