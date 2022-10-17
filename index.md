@@ -1,12 +1,16 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-humandate: "Dec 12, 2022 9:00 am - 5:00 pm Europe/Zurich time (UTC+2)"
+humandate: "Dec 12, 2022 9:00 am - 5:00 pm India time (UTC+5:30)"
 startdate: 2022-12-12
 enddate: 2022-12-12
 venue: "ML4MI 2022"
 ---
 
-Note that this workshop is a part of <a href="https://www.acml-conf.org/2022/index.html#hero">Asian Conference on Machine Learning 2022</a>. <font color='FF0000'> To attend the workshop, you should first register for the conference</font>. The link of the zoom meeting room can be found at the virtual site and the gather town of ACML 2022.
+Note that ML4MI is a hybrid workshop and is a part of <a href="https://www.acml-conf.org/2022/index.html#hero">Asian Conference on Machine Learning 2022</a>. <font color='FF0000'> To attend the workshop, please register for the conference</font>.
+
+**More details are coming soon, stay tuned.**
+
+[//]: # (The zoom meeting link can be found at the virtual site and the gather town of ACML 2022.)
 
 <hr/>
 
@@ -70,7 +74,7 @@ ML4MI invites submissions that,
 
 <h2>Program</h2>
 
-<p>The workshop will use <font color='FF0000'> Europe/Zurich time (UTC+2, your browser's time zone) </font> for scheduling, and it will be combined with invited talks and contributed talks. Details will follow.
+<p>The workshop will use <font color='FF0000'> India time (UTC+5:30, your browser's time zone) </font> for scheduling, and it will be combined with invited talks and contributed talks. Details will follow.
 
 
 <hr/>
