@@ -65,6 +65,8 @@ ML4MI invites submissions that,
 
 **Accept/Reject notification**: Nov 20, 2022
 
+[//]: # (**Publication**:)
+
 <hr/>
 
 
@@ -74,7 +76,22 @@ ML4MI invites submissions that,
 
 <h2>Program</h2>
 
-<p>The workshop will use <font color='FF0000'> India time (UTC+5:30, your browser's time zone) </font> for scheduling, and it will be combined with invited talks and contributed talks. Details will follow.
+The workshop will include invited talks by guests and selected presentations from submissions. Our guest speakers are,
+<h4>Keynote speaker</h4>
+
+<ul>
+  <li><a href="https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html"> Lena Maier-Hein</a>, German Cancer Research Center, Hamburg, Germany</li>
+</ul>
+
+<h4>Invited speakers</h4>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/pwarier/"> Prashant Warrier</a>, Qure.ai, New York, USA</li>
+  <li><a href="https://scholar.harvard.edu/faisalmahmood/home"> Faisal Mahmood</a>, Harvard Medical School, Boston, USA</li>
+  <li><a href="https://www.drsandeepreddy.com/"> Sandeep Reddy</a>, Deakin University, Victoria, Australia</li>
+</ul>
+
+<p>The workshop will use <font color='FF0000'> India time (UTC+5:30, your browser's time zone) </font> for scheduling. Detailed agenda will follow.
 
 
 <hr/>
