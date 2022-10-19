@@ -86,7 +86,7 @@ The workshop will include invited talks by guests and selected presentations fro
 <h4>Invited speakers</h4>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/pwarier/"> Prashant Warrier</a>, Qure.ai, New York, USA</li>
+  <li><a href="https://www.linkedin.com/in/pwarier/"> Prashant Warrier</a>, Qure.ai, Mumbai, India</li>
   <li><a href="https://scholar.harvard.edu/faisalmahmood/home"> Faisal Mahmood</a>, Harvard Medical School, Boston, USA</li>
   <li><a href="https://www.drsandeepreddy.com/"> Sandeep Reddy</a>, Deakin University, Victoria, Australia</li>
 </ul>
