@@ -50,6 +50,7 @@ Topics of interest include, but are not limited to:
 <h2>Submission instructions</h2>
 
 ML4MI invites submissions that,
+* Describe preliminary work to generate discussions about recent trends and major challenges
 * Describe novel and improved computational methods
 * Address novel or impactful medical imaging tasks
 * Propose new ML-driven computational software for medical imaging applications
@@ -57,13 +58,15 @@ ML4MI invites submissions that,
 
 [//]: # (**Submission link [TBA]**: <a href="https://openreview.net/group?id=NeurIPS.cc%2F2022%2FWorkshop%2FLMRL"> Link to OpenReview</a>)
 
-**Submission link**: To be announced
+**Submission link**: <a href="https://cmt3.research.microsoft.com/ML4MI2022/Submission/Index"> Link to CMT</a>
 
 **Format**: Anonymized <a href="https://www.acml-conf.org/2022/assets/ACML2022-camera_ready-template.zip">ACML 2022 conference template</a>. 2-4 page papers, excluding references and supplementary material (optional). The submission should be contained without the supplementary.
 
 **Submission deadline**: Nov 5, 2022 (<a href="https://www.timeanddate.com/time/zones/aoe">any time zone</a>)
 
 **Accept/Reject notification**: Nov 20, 2022
+
+**Awards**: The best paper and the best presentation will be awarded.
 
 [//]: # (**Publication**:)
 
