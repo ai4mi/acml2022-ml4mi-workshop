@@ -6,10 +6,10 @@ enddate: 2022-12-12
 venue: "ML4MI 2022"
 ---
 
-Note that ML4MI is a hybrid workshop and is a part of <a href="https://www.acml-conf.org/2022/index.html#hero">Asian Conference on Machine Learning 2022</a>. <font color='FF0000'> To attend the workshop, please register for the conference</font>.
+Note that ML4MI is a hybrid workshop and is a part of <a href="https://www.acml-conf.org/2022/index.html#hero">Asian Conference on Machine Learning 2022</a>. 
 
-**More details are coming soon, stay tuned.**
-
+[//]: # (<font color='FF0000'> To attend the workshop, please register for the conference</font>.)
+[//]: # (**More details are coming soon, stay tuned.**)
 [//]: # (The zoom meeting link can be found at the virtual site and the gather town of ACML 2022.)
 
 <hr/>
@@ -51,10 +51,11 @@ Topics of interest include, but are not limited to:
 
 ML4MI invites submissions that,
 * Describe preliminary work to generate discussions about recent trends and major challenges
-* Describe novel and improved computational methods
-* Address novel or impactful medical imaging tasks
-* Propose new ML-driven computational software for medical imaging applications
-* Describe perspectives to generate discussions about recent trends and major challenges in machine learning for medical imaging applications
+* Describe novel and improved computational methods 
+*	Address novel or impactful medical imaging tasks 
+*	Propose new ML-driven computational software for medical imaging applications 
+*	Describe perspectives to generate discussions about recent trends and major challenges in machine learning for medical imaging applications
+*	Recently (within this year) published papers that the authors want to communicate
 
 [//]: # (**Submission link [TBA]**: <a href="https://openreview.net/group?id=NeurIPS.cc%2F2022%2FWorkshop%2FLMRL"> Link to OpenReview</a>)
 
@@ -64,9 +65,12 @@ ML4MI invites submissions that,
 
 **Submission deadline**: Nov 20, 2022 (<a href="https://www.timeanddate.com/time/zones/aoe">any time zone</a>)
 
-**Accept/Reject notification**: TBD
+**Accept/Reject notification**: Nov 27, 2022
 
-**Awards**: The best paper and the best presentation will be awarded.
+**Publication**:
+The accepted papers will be published in the workshop’s webpage as proceedings.
+
+**Awards**: The best and the runner-up papers will be awarded **500$** and **300$**, respectively.
 
 [//]: # (**Publication**:)
 
