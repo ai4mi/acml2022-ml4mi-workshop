@@ -68,7 +68,7 @@ ML4MI invites submissions that,
 **Accept/Reject notification**: Dec 2, 2022
 
 **Publication**:
-The accepted papers will be published in the workshop’s webpage as proceedings.
+The accepted papers will be published in the workshop’s webpage.
 
 **Awards**: The best and the runner-up papers will be awarded **500$** and **300$**, respectively.
 
