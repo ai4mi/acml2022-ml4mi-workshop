@@ -63,9 +63,9 @@ ML4MI invites submissions that,
 
 **Format**: Anonymized <a href="https://www.acml-conf.org/2022/assets/ACML2022-camera_ready-template.zip">ACML 2022 conference template</a>. 2-4 page papers, excluding references and supplementary material (optional). The submission should be contained without the supplementary.
 
-**Submission deadline**: Nov 20, 2022 (<a href="https://www.timeanddate.com/time/zones/aoe">any time zone</a>)
+**Submission deadline**: Nov 24, 2022 (<a href="https://www.timeanddate.com/time/zones/aoe">any time zone</a>)
 
-**Accept/Reject notification**: Nov 27, 2022
+**Accept/Reject notification**: Dec 2, 2022
 
 **Publication**:
 The accepted papers will be published in the workshop’s webpage as proceedings.
