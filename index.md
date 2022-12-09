@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-humandate: "Dec 12, 2022 9:00 am - 5:00 pm India time (UTC+5:30)"
+humandate: "Dec 12, 2022 9:30 am - 3:30 pm Indian time (UTC+5:30)"
 startdate: 2022-12-12
 enddate: 2022-12-12
 venue: "ML4MI 2022"
@@ -75,9 +75,6 @@ The accepted papers will be published in the workshop’s webpage.
 <img src="./pictures/ADAM_logo.png" alt="ADAM" width="300" class="center"/>
 
 
-
-[//]: # (**Publication**:)
-
 <hr/>
 
 
@@ -86,25 +83,26 @@ The accepted papers will be published in the workshop’s webpage.
 
 
 <h2>Program</h2>
+<p>Detailed agenda of the workshop is presented as follows. All timings are in <font color='FF0000'> Indian Standard Time (UTC+5:30)</font>.
 
-The workshop will include invited talks by guests and selected presentations from submissions. Our guest speakers are,
-<h4>Keynote speaker</h4>
+<div class="row">
+<div class="col-md-8" markdown="1">
 
-<ul>
-  <li><a href="https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html"> Lena Maier-Hein</a>, German Cancer Research Center, Hamburg, Germany</li>
-</ul>
+| Time                            | Particulars                                                                                                                                                          |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| &nbsp;&nbsp;09:30 am - 09:45 am | Welcome remarks                                                                                                                                                      |
+| &nbsp;&nbsp;09:45 am - 10:30 am | Invited talk by <a href="https://scholar.harvard.edu/faisalmahmood/home"> Dr. Faisal Mahmood</a>, Harvard Medical School, Boston, USA                                |
+| &nbsp;&nbsp;10:30 am - 11:15 am | Paper presentation session 1                                                                                                                                         |
+| &nbsp;&nbsp;11:15 am - 11:30 am | Break                                                                                                                                                                |
+| &nbsp;&nbsp;11:30 am - 12:15 pm | Invited talk by <a href="https://www.drsandeepreddy.com/"> Dr. Sandeep Reddy</a>, Deakin University, Victoria, Australia                                             |
+| &nbsp;&nbsp;12:15 pm - 01:00 pm | Paper Presentation session 2                                                                                                                                         |
+| &nbsp;&nbsp;01:00 pm - 01:30 pm | Break                                                                                                                                                                |
+| &nbsp;&nbsp;01:30 pm - 02:15 pm | Invited talk by <a href="https://www.linkedin.com/in/swapnil-rane-034b0322/?originalSubdomain=in"> Dr. Swapnil Rane</a>, Tata Memorial Centre, Mumbai, India         |
+| &nbsp;&nbsp;02:15 pm - 03:15 pm | Keynote talk by <a href="https://www.dkfz.de/en/imsy/team/people/Lena_Maier-Hein.html"> Dr. Lena Maier-Hein</a>, German Cancer Research Center, Hamburg, Germany     |
+| &nbsp;&nbsp;03:15 pm - 03:30 pm | Closing remarks                                                                                                                                                      |
 
-<h4>Invited speakers</h4>
-
-<ul>
-  <li><a href="https://www.linkedin.com/in/swapnil-rane-034b0322/?originalSubdomain=in"> Swapnil Rane</a>, Tata Memorial Centre, Mumbai, India</li>
-  <li><a href="https://scholar.harvard.edu/faisalmahmood/home"> Faisal Mahmood</a>, Harvard Medical School, Boston, USA</li>
-  <li><a href="https://www.drsandeepreddy.com/"> Sandeep Reddy</a>, Deakin University, Victoria, Australia</li>
-</ul>
-
-<p>The workshop will use <font color='FF0000'> India time (UTC+5:30, your browser's time zone) </font> for scheduling. Detailed agenda will follow.
-
-
+</div>
+</div>
 <hr/>
 
 <h2>Organizers</h2>
