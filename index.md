@@ -70,7 +70,7 @@ ML4MI invites submissions that,
 **Publication**:
 The accepted papers will be published in the workshop’s webpage.
 
-**Awards**: The best and the runner-up papers will be awarded **500$** and **300$**, respectively, sponsored by <a href="https://www.monash.edu/it/digital-health/initiatives/adam">**ADAM: Alliance for Digital health at Monash**</a>.
+**Awards**: We will have awards for the best presentations, sponsored by <a href="https://www.monash.edu/it/digital-health/initiatives/adam">**ADAM: Alliance for Digital health at Monash**</a>.
 
 <img src="./pictures/ADAM_logo.png" alt="ADAM" width="300" class="center"/>
 
